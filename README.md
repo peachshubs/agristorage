@@ -11,11 +11,12 @@ A digital platform dedicated to revolutionize the agricultural sector in India, 
 ![Screenshot 2025-01-31 164436](https://github.com/user-attachments/assets/974015c9-f4f0-4a24-993a-4c80523e2f99)
 ![Screenshot 2025-01-31 164507](https://github.com/user-attachments/assets/939cf3ca-3efd-4211-8dde-9e121f4bb727)
 ![Screenshot 2025-01-31 165040](https://github.com/user-attachments/assets/794de090-ef5b-430b-a241-69c427ce61f2)
-![Screenshot 2025-01-31 165058](https://github.com/user-attachments/assets/9b1b1298-3969-4983-9b34-3adfd7b69145)
 ![Screenshot 2025-01-31 165115](https://github.com/user-attachments/assets/4b90da80-511f-4dd5-9865-c625baf7cfbe)
+![Screenshot 2025-01-31 165058](https://github.com/user-attachments/assets/9b1b1298-3969-4983-9b34-3adfd7b69145)
+![Screenshot 2025-01-31 165347](https://github.com/user-attachments/assets/3272c223-9ca6-4d0d-8df2-9c6e525761f1)
 
 Additional features that were not present in the final draft:
 
 ![Screenshot 2025-01-31 165313](https://github.com/user-attachments/assets/112deff7-6fc5-48df-bc6d-3f6f5eb1e553)
-![Screenshot 2025-01-31 165347](https://github.com/user-attachments/assets/3272c223-9ca6-4d0d-8df2-9c6e525761f1)
+
 
